@@ -8,4 +8,4 @@ This effect was created by defining a virtual log in line with the y-axis that l
 Image of the shader being applied to an obj of a Giraffe. Project complete for CS 557 Computer Graphics Shaders.
 
 # Image capture of program
-<img src="WoodGenWindows/Capture.PNG" height="600" width="600" alt="Screenshot"/>
+<img src="WoodGenWindows/Capture.PNG" height="600" width="800" alt="Screenshot"/>
