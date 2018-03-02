@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>wood.frag</file>
+        <file>wood.vert</file>
+        <file>cube.png</file>
+    </qresource>
+</RCC>
