@@ -6,3 +6,6 @@ This effect was created by defining a virtual log in line with the y-axis that l
 <img src="Final_Poster_Benjamin_Fields.bmp" height="500" width="400" alt="Screenshot"/> 
 
 Image of the shader being applied to an obj of a Giraffe. Project complete for CS 557 Computer Graphics Shaders.
+
+# Image capture of program
+<img src="WoodGenWindows/Capture.PNG" height="600" width="600" alt="Screenshot"/>
